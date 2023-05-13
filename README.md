@@ -17,7 +17,7 @@ This is a script to auto fill the Lotto numbers from Megaman Battle Network 3 to
 -BN6 Just after the first cross, before the Circusman.EXE events. [~2h]
 -BN5 After the first liberation mission before the Oran agents event [~3h/6h]
 -BN4 Before going to Castillo [~4h/8h]
--BN3
+-BN3 After the Zoo incident event [~3h]
 
 Icons
 
