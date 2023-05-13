@@ -1,4 +1,4 @@
-# MMBN-Lotto-autofiller
+# MMBN-Lotto-autofiller https://dosprojectsblog.wordpress.com/2023/05/13/mmbn-lotto-autofiller/
 This is a script to auto fill the Lotto numbers from Megaman Battle Network 3 to 6.
 
 - [When do you get access to them?](#first-time-you-get-them)
@@ -84,8 +84,8 @@ There is a progression of the codes done on the Software window.
 Example with a set of custom codes(Option 7)
 
 # Links
-
-GitHub(The Software is there):
+Website: https://dosprojectsblog.wordpress.com/2023/05/13/mmbn-lotto-autofiller/
+GitHub(The Software is there): https://github.com/Okdak-Sempai/MMBN-Lotto-autofiller/releases/tag/V1
 MMBN LOTTO Google Sheets(Easier to copy or use or even read): https://docs.google.com/spreadsheets/d/19BxC3WjeXWJjl8Rbtn7t43Nl2N-3qxpOfnq3Mh-a43A/edit?usp=sharing
 
 # Sources
