@@ -85,7 +85,7 @@ Example with a set of custom codes(Option 7)
 
 # Links
 Website: https://dosprojectsblog.wordpress.com/2023/05/13/mmbn-lotto-autofiller/
-GitHub(The Software is there): https://github.com/Okdak-Sempai/MMBN-Lotto-autofiller/releases/tag/V1
+GitHub(The Software is there): https://github.com/Okdak-Sempai/MMBN-Lotto-autofiller/releases/tag/V3
 MMBN LOTTO Google Sheets(Easier to copy or use or even read): https://docs.google.com/spreadsheets/d/19BxC3WjeXWJjl8Rbtn7t43Nl2N-3qxpOfnq3Mh-a43A/edit?usp=sharing
 
 # Sources
